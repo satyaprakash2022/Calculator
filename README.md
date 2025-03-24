@@ -23,7 +23,7 @@ iii) JavaScript
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/satyaprakash2022/Calculator.git
 
 2. Navigate to the project directory:
 
@@ -49,7 +49,7 @@ iii) Press C to clear the input field.
 
 # Screenshots
 
-(Add screenshots if needed)
+
 
 # Contributing
 
