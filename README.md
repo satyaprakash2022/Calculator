@@ -34,10 +34,10 @@ cd calculator
 # File Structure
 
 calculator/
-│── index.html      # Main HTML structure
-│── style.css       # Styling for the calculator
-│── script.js       # JavaScript logic
-│── README.md       # Project documentation
+  │── index.html      # Main HTML structure
+  │── style.css       # Styling for the calculator
+  │── script.js       # JavaScript logic
+  │── README.md       # Project documentation
 
 # Usage
 
