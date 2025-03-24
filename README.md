@@ -33,11 +33,7 @@ cd calculator
 
 # File Structure
 
-calculator/
-  │── index.html      # Main HTML structure
-  │── style.css       # Styling for the calculator
-  │── script.js       # JavaScript logic
-  │── README.md       # Project documentation
+<img width="261" alt="image" src="https://github.com/user-attachments/assets/6917a365-db81-47fe-9e75-a8c43dd64bff" />
 
 # Usage
 
@@ -49,7 +45,8 @@ iii) Press C to clear the input field.
 
 # Screenshots
 
-https://github.com/satyaprakash2022/Calculator/blob/main/CALCULATOR%20SS.png
+![image](https://github.com/user-attachments/assets/c5a7b809-c47b-4be5-b400-99303920b762)
+
 
 # Contributing
 
