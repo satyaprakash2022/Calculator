@@ -49,7 +49,7 @@ iii) Press C to clear the input field.
 
 # Screenshots
 
-
+https://github.com/satyaprakash2022/Calculator/blob/main/CALCULATOR%20SS.png
 
 # Contributing
 
